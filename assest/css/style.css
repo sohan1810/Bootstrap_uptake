@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Nexcent{
+    background-color: #F5F7FA;
+}
+
+#btn{
+    color: #4CAF4F;
+    border: none;
+    background-color: #F5F7FA;
+}
+
+
+#btn_up{
+    background-color: #4CAF4F;
+    border: none;
+    color: #fff;
+}
+
+.carousel-indicators [data-bs-target]{
+    background-color: #4CAF4F;
+    border-radius: 50%;
+    width: 18px;
+    height: 20px;
+}
+
+.business{
+    color: #4CAF4F;
+}
+
+#container{
+    background-color: #F5F7FA;
+}
+
+  .social-links a{
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	background-color: #4D4D4D;
+	margin:0 20px 10px 0;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 50%;
+	color: #ffffff;
+}
+
+.sup-links a{
+    text-decoration: none;
+    color: #F5F7FA;
+}
+
+ul {
+    list-style: none;
+    padding: 0%;
+}
+
+.form-control{
+    background-color:#717171;
+    border:#717171;
+}
+
+.btn-secondary{
+    border: #717171;
+    background: #717171;
+}
